@@ -15,11 +15,13 @@
 
 ## About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🔭 Currently working on: **Machine Learning projects.**
-- 🌱 Learning: **Machine Learning, Cybersecurity, Web Development.**
-- 💬 Ask me about: **Machine Learning, React, Firebase, CSS, JavaScript.**
-- 👯 Open to collaborate on: **ML projects, web applications, and security projects.**
+- 🔭 Currently working on: Machine Learning projects <br>
+- 🌱 Learning: Machine Learning, Cybersecurity, Web Development <br>
+- 💬 Ask me about: Machine Learning, React, Firebase, CSS, JavaScript <br>
+- 👯 Open to collaborate on: ML projects, web applications, and security projects <br>
 - 📝 Check out my <a href="https://github.com/ParvathyS1103" style="color: #FF4500;">GitHub Repositories</a> for more info.
+
+
 
 ## Experience
 I am currently focused on developing machine learning models for various applications. My work spans across data preprocessing, model training, and integration with web applications. I am also exploring the intersection of cybersecurity with ML to create secure, intelligent systems.
